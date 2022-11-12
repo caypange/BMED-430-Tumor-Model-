@@ -1,0 +1,10 @@
+
+Variables , initial variables , Sigfigs 
+a,9.25,3
+b,10.125,5
+ Header , Results , Sigfigs 
+ a+b ,19.375,4
+ b/a ,1.09 ,3
+ ln(b) ,2.3150 ,5
+ e^a ,1.04e+04 ,3
+ a*pi ,29.1 ,3
